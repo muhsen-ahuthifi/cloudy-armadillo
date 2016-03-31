@@ -1,0 +1,1 @@
+This is a project which aims to use googles c2dm protocol to enable a web server to message a phone, requesting the phone reply with an email of its location
